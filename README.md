@@ -1,2 +1,2 @@
-# C-21-class
-Collision and BounceOff Algorithmn
+# collisionAlgorithm
+Algorithm to detect collision between two objects
